@@ -151,6 +151,9 @@ So far, the skill has one intent: **LaunchRequest**. This function responds to t
 ## Wrap-up
 When you open the skill, does it say, "Hello! Welcome to Cake Walk. That was a piece of cake! Bye!"? If so, congratulations! You have laid the groundwork for the skill. You will be building new skills with compelling conversational voice experiences in no time.
 
+## Share your progress 
+
+>> http://bit.ly/asi_events
 
 ## Code
 If your skill isn’t working or you’re getting some kind of syntax error, download the code sample in Cake Walk Folder. Then, go to the Code tab in the Alexa developer console and copy and paste the code into the **lambda_function.py** file. Be sure to save and deploy the code before testing it.

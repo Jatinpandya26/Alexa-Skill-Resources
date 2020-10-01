@@ -157,4 +157,3 @@ When you open the skill, does it say, "Hello! Welcome to Cake Walk. That was a p
 
 ## Code
 If your skill isn’t working or you’re getting some kind of syntax error, download the code sample in Cake Walk Folder. Then, go to the Code tab in the Alexa developer console and copy and paste the code into the **lambda_function.py** file. Be sure to save and deploy the code before testing it.
-

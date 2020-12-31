@@ -5,11 +5,10 @@ In this repo you'll find the resources to continue the learning and implementati
 
 ### Repo Features covered / what u can get here
 * STEP BY STEP Points to get you started Cake Walk skill.  
-* Ask your Voice App to reprompt
+* Ask your Voice App to reprompt 
 * Hello World Skill code (python + Js)
 * Barnacle Skill Code (certified and published)
  
-
 # Module 1
 
 ## Step 1: Log in

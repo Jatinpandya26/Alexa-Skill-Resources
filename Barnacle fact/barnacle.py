@@ -24,7 +24,7 @@ class GetFactHandler(AbstractRequestHandler):
         
     def handle(self, handler_input):
         # type: (HandlerInput) -> Response
-        speak_output = "Hello! Welcome to the banacle. you can ask a fact about any of HOW I MET YOUR MOTHER series character like Ted Mosby and  Marshall Eriksen and Lily Aldrin and  Barney Stinson  and Tracy McConnell"
+        speak_output = "Hello! Welcome to the Banacle. you can ask a fact about any of HOW I MET YOUR MOTHER series character like Ted Mosby and  Marshall Eriksen and Lily Aldrin and  Barney Stinson  and Tracy McConnell"
         logger.info("In GetNewFactHandler")
 
         # get localization data
